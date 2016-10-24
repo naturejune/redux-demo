@@ -1,0 +1,9 @@
+.AddTodo {
+  width: 80px;
+  height: 30px;
+  border: none;
+  color: #fff;
+  background-color: #09f;
+  line-height: 30px;
+  outline: none;
+}
